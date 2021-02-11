@@ -2,6 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Will the real Slim Shady, please stand up
+Country Roads, Take me home
+To the place I belong
 
 Use the left arrow to go back!
