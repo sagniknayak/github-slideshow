@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-We the best music, another one - DJ Khaled!
+Will the real Slim Shady, please stand up
+
 Use the left arrow to go back!
